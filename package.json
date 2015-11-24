@@ -1,0 +1,14 @@
+{
+  "name": "lnug-deck-skin",
+  "version": "1.0.2",
+  "main": "main.styl",
+  "author": "Ian Crowther",
+  "license": "MIT",
+  "scripts": {},
+  "files": [
+    "images",
+    "main.styl",
+    "master-slides.styl",
+    "universe.styl"
+  ]
+}
