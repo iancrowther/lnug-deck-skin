@@ -1,8 +1,13 @@
 {
   "name": "lnug-deck-skin",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "main.styl",
-  "author": "Ian Crowther",
+  "author": "David Mark Clements",
+  "contributors": [{
+    "name": "Ian Crowther",
+    "email": "ian@nexttick.io",
+    "url" : "http://nexttick.io"
+  }],
   "license": "MIT",
   "scripts": {},
   "files": [
